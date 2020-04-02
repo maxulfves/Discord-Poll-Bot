@@ -1,0 +1,13 @@
+**FAQ**
+Commands *Remove brackets*:
+/poll [PollName] [Option1] [Option2]
+*Creates a new poll. Note that the options need to be separated by spaces.*
+
+/vote [NO]
+*Votes for option with the number "NO". E.g. 3.*
+
+/help
+*Sends help message, duh. *
+
+/voters
+*Sends list of voters if allowed*
