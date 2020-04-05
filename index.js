@@ -174,5 +174,5 @@ client.on('message', async message => {
 	}
 });
 
-bot_secret_token = "INSERT SECRET TOKEN HERE"
+bot_secret_token = "SECRET TOKEN"
 client.login(bot_secret_token)
