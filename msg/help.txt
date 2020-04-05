@@ -1,0 +1,5 @@
+**Commands:**
+```/poll MyPoll,AltA,AltB,AltC``` *Creates a poll named MyPoll with the options AltA, AltB and AltC. To add more options, just keep adding comma-separated arguments*
+```/vote 5``` *Votes for the 5th option*
+```/help``` *Sends help message, duh...*
+```/voters``` *Sends list of voters if allowed*

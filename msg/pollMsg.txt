@@ -1,0 +1,6 @@
+**Poll question: [NAME]**
+[OPTIONS]
+Vote by typing:
+```/vote NUMBER```
+For additional commands, type
+```/help```
